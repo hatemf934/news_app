@@ -1,0 +1,1 @@
+enum ThemeCubitState { dark, light }
